@@ -1,4 +1,3 @@
-/*
 package security;
 
 import javax.servlet.ServletException;
@@ -23,4 +22,3 @@ public class ShowCookies extends HttpServlet {
         }
     }
 }
-*/

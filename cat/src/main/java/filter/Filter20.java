@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 //注解/过滤器名称/该过滤器对所有请求有效
-@WebFilter(filterName = "Filter 20",urlPatterns = "/*")
+//@WebFilter(filterName = "Filter 20",urlPatterns = "/*")
 public class Filter20 implements Filter {
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {

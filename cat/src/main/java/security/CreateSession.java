@@ -1,4 +1,3 @@
-/*
 package security;
 
 import javax.servlet.ServletException;
@@ -21,4 +20,3 @@ public class CreateSession extends HttpServlet {
         resp.getWriter().println("session will last 5 seconds");
     }
 }
-*/
